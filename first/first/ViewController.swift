@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        lbl
+        lbl.backgroundColor = UIColor.blue
 
         print("Hello")
         
