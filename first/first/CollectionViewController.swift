@@ -22,6 +22,9 @@ class CollectionViewController: UICollectionViewController {
         self.collectionView!.register(UICollectionViewCell.self, forCellWithReuseIdentifier: reuseIdentifier)
 
        print("My file is addded. please check once")
+        
+       print("Done it")
+        
     }
 
     
