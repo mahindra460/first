@@ -19,7 +19,8 @@ class MyViewController: UIViewController {
         
         print("Hai 3")
         
-        // Do any additional setup after loading the view.
+        print("Hai 4")
+       
     }
     
 
