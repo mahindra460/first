@@ -25,6 +25,8 @@ class CollectionViewController: UICollectionViewController {
         
        print("Done it")
         
+        print("MYCV & MYCVC")
+        
     }
 
     
